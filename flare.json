@@ -1,7 +1,7 @@
 {
  "name": "flare",
  "children": [
-    {
+    	      {
               "name": "analytics",
               "children": [
                            {
@@ -195,7 +195,7 @@
                            {"name": "TimeScale", "size": 5833}
                            ]
               }
-	}
+	
 	]
 
 }
